@@ -1,0 +1,5 @@
+x28:
+For this picture, i rotated the original image 180 degrees clockwise and set the value of gamma to 0.6 to brighten the image along with applying laplacian sharpening filter to enhance the edges.
+
+x43:
+For this picture, i rotated the original image 90 degrees anticlockwise, performed histogram equalization to reduce the original washed out look of the picture along with applying a weighted smoothing filter to reduce the pixelation of the image.
